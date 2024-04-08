@@ -33,6 +33,12 @@ npm install
 ### Start the API
 
 ```sh
+npm run dev-api
+```
+
+OR
+
+```sh
 cd api
 
 python app.py
