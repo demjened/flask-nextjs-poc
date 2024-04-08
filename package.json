@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "dev-api": "cd api && .venv/bin/python app.py --debug",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
